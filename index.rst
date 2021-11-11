@@ -7,9 +7,6 @@
 Welcome to uostest's documentation!
 ===================================
 
-.. image:: 1test.png
-    :alt: testpng
-
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
