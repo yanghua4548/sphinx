@@ -7,14 +7,21 @@
 Welcome to uostest's documentation!
 ===================================
 
+.. image:: 1test.png
+    :alt: testpng
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    about
 
+
+
 Indices and tables
 ==================
+
+
 
 * :ref:`genindex`
 * :ref:`modindex`
